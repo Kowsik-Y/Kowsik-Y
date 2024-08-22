@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kowsik-Y
 - 👀 I’m interested in Machine Learning , Web developer And Android developer...
 - 🌱 I’m currently learning *B.tech (Artificial Intelligence And Machine Learning)*...
-<h1 align="center">Hi 👋, I'm Kowsik Y</h1>
+# Hi 👋, I'm Kowsik Y
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="end"> <img src="https://komarev.com/ghpvc/?username=kowsik-y&label=Profile%20views&color=0e75b6&style=flat" alt="kowsik-y" /> </p>
