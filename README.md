@@ -4,11 +4,10 @@
 <h1 align="center">Hi 👋, I'm Kowsik Y</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kowsik-y&label=Profile%20views&color=0e75b6&style=flat" alt="kowsik-y" /> </p>
+<p align="end"> <img src="https://komarev.com/ghpvc/?username=kowsik-y&label=Profile%20views&color=0e75b6&style=flat" alt="kowsik-y" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowsik-y" alt="kowsik-y" /></a> </p>
+<p align="start"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowsik-y" alt="kowsik-y" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kowsik-y" target="blank"><img src="https://img.shields.io/twitter/follow/kowsik-y?logo=twitter&style=for-the-badge" alt="kowsik-y" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
