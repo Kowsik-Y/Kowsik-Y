@@ -24,10 +24,10 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowsik-y&show_icons=true&locale=en&layout=compact" alt="kowsik-y" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kowsik-y&show_icons=true&locale=en" alt="kowsik-y" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowsik-y&show_icons=true&locale=en&layout=compact" alt="kowsik-y" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kowsik-y&show_icons=true&locale=en" alt="kowsik-y" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kowsik-y&" alt="kowsik-y" /></p>
 
 
