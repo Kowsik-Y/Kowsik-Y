@@ -11,7 +11,7 @@
 
 ### 🔗 Connect with me:
 
-![image](https://github.com/user-attachments/assets/d51ee730-2946-4fcd-bfec-410eb15853b4)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kowsik-y)
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
