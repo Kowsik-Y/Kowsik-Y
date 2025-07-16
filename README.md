@@ -2,12 +2,12 @@
 
 - 👋 Hi, I’m @Kowsik-Y
 
-- 👀 I’m interested in Machine Learning , Web developer And Android developer...
+- 👀 I’m interested in Machine Learning , Web developer And MERN developer...
   
 - 🌱  I’m currently learning *B.tech (Artificial Intelligence And Machine Learning)*...
   
 # Hi 👋, I'm Kowsik Y
-<p align="start"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowsik-y" alt="kowsik-y" /></a> </p>
+<p align="start">  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=kowsik-y" alt="kowsik-y" /></a> </p>
 
 #
 ## 🌐 Stay with:
@@ -15,8 +15,8 @@
 #
 ## 🕹️ Techies:
 
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]()
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]() 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
