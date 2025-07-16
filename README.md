@@ -7,7 +7,7 @@
 - 🌱  I’m currently learning *B.tech (Artificial Intelligence And Machine Learning)*...
   
 # Hi 👋, I'm Kowsik Y
-<p align="start">  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=kowsik-y" alt="kowsik-y" /></a> </p>
+<p align="start">  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=kowsik-y&margin-w=15" alt="kowsik-y" /></a> </p>
 
 #
 ## 🌐 Stay with:
