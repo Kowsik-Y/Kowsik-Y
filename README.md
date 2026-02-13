@@ -59,10 +59,11 @@ I specialize in building **AI-powered applications and scalable architectures**.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kowsik-Y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kowsik-Y&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 15px;">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kowsik-Y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kowsik-Y&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
 
 ---
 
