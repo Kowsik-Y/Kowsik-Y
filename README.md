@@ -1,50 +1,128 @@
+<!-- ===================== HEADER ===================== -->
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kowsik-y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<h1 align="center">Kowsik Y</h1>
+
+<p align="center">
+Artificial Intelligence & Machine Learning Engineer • Agent AI Builder • Full Stack Developer
 </p>
 
-# 👋 Hello! I'm Kowsik Y
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Systems;Designing+Scalable+Backends;Exploring+Generative+AI;Future+AI+Engineer" />
+</p>
 
-- 🎓 Currently pursuing **B.Tech in Artificial Intelligence and Machine Learning**
-- 💻 Passionate about **Machine Learning, Full Stack Web Development, and MERN Stack**
-- 🌱 Continuously learning and building impactful tech projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kowsik-Y&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🧠 About Me
+
+🎓 AI & ML Student  
+🏫 Bannari Amman Institute of Technology  
+📍 India  
+
+I specialize in building **AI-powered applications and scalable architectures**.
+
+- 🤖 Agent AI & LLM Applications
+- 🌐 Full-Stack Web & Mobile Apps
+- ⚙️ Microservices Backend Design
+- 🧠 Generative AI Systems
+- 🚀 Continuous Learner
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts"/>
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres"/>
+</p>
+
+### Tools & AI
+<p>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+</p>
+
+---
+
+# 🚀 Projects
+
+## 🧠 Quiz Portal
+AI-generated quiz creation, authentication & scoring  
+Tech: React Native • Node.js • PostgreSQL  
+
+## 🌿 Bamboo Platform
+Scalable microservices content publishing system  
+Tech: Next.js • Spring Boot • PostgreSQL  
+
+## 💬 Loan Policy Chat Assistant
+Loan eligibility AI chatbot  
+Tech: Python • Prompt Engineering • AI Models  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kowsik-Y&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowsik-Y&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Kowsik-Y&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
-
-<p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=kowsik-y&margin-w=15&theme=algolia" alt="GitHub Trophies" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kowsik-Y&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowsik-y/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter)](https://x.com/Kowsik_Y)
-
----
-
-## 🧰 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=java\&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
-
+## 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kowsik-Y&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kowsik-Y/Kowsik-Y/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kowsik-Y/Kowsik-Y/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kowsik-Y/Kowsik-Y/output/pacman-contribution-graph.svg">
-</picture>
+## 🐍 Contribution Snake
 
-###
+<p align="center">
+<img src="https://raw.githubusercontent.com/Kowsik-Y/Kowsik-Y/output/github-contribution-grid-snake.svg" />
+</p>
 
+*(Enable this in repo Actions — steps below)*
+
+---
+
+# 🌐 Connect
+
+<p>
+<a href="mailto:kowsikyogaraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Kowsik-Y"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/kowsik-y"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Kowsik_Y/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+<p align="center">
+⭐ Designing Intelligent Systems That Solve Real-World Problems
+</p>
