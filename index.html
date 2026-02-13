@@ -1,18 +1,176 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-    <title>KOWSIK Y</title>
-    <link rel="stylesheet" href="styles.css">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Kowsik Y | AI Developer</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: #0f172a;
+  color: white;
+  line-height: 1.6;
+}
+
+header {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+}
+
+header h1 {
+  font-size: 3rem;
+  color: #00f7ff;
+}
+
+header p {
+  margin-top: 15px;
+  font-size: 1.2rem;
+  color: #94a3b8;
+}
+
+.btn {
+  margin-top: 25px;
+  padding: 12px 25px;
+  background: #00f7ff;
+  color: black;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: white;
+}
+
+section {
+  padding: 80px 10%;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: #00f7ff;
+  text-align: center;
+}
+
+.about, .projects, .skills, .contact {
+  max-width: 1100px;
+  margin: auto;
+}
+
+.project-card {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  transition: 0.3s;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  background: #334155;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+  text-align: center;
+}
+
+.skill-box {
+  background: #1e293b;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #0f172a;
+  color: #94a3b8;
+}
+</style>
 </head>
+
 <body>
-    <div class="container">
-        <h1>KOWSIK  Y</h1>
-        <br>
+
+<header>
+  <h1>Kowsik Y</h1>
+  <p>Artificial Intelligence & Machine Learning Developer</p>
+  <a href="https://github.com/Kowsik-Y" class="btn">View GitHub</a>
+</header>
+
+<section class="about">
+  <h2>About Me</h2>
+  <p>
+    I am an AI & ML student passionate about building intelligent systems,
+    scalable microservices, and AI-powered applications.
+    I specialize in Agent AI, Generative AI, and Full Stack Development.
+  </p>
+</section>
+
+<section class="projects">
+  <h2>Projects</h2>
+
+  <div class="project-card">
+    <h3>🧠 Quiz Portal</h3>
+    <p>AI-powered quiz app with generative quiz creation and real-time scoring.</p>
+  </div>
+
+  <div class="project-card">
+    <h3>🌿 Bamboo Platform</h3>
+    <p>Microservices-based content publishing platform with secure authentication.</p>
+  </div>
+
+  <div class="project-card">
+    <h3>💬 Loan Policy Chat Assistant</h3>
+    <p>AI chatbot to evaluate loan eligibility using policy-based reasoning.</p>
+  </div>
+
+</section>
+
+<section class="skills">
+  <h2>Skills</h2>
+  <div class="skills-grid">
+    <div class="skill-box">Python</div>
+    <div class="skill-box">Java</div>
+    <div class="skill-box">JavaScript</div>
+    <div class="skill-box">React</div>
+    <div class="skill-box">Next.js</div>
+    <div class="skill-box">Spring Boot</div>
+    <div class="skill-box">Node.js</div>
+    <div class="skill-box">PostgreSQL</div>
+  </div>
+</section>
+
+<section class="contact">
+  <h2>Contact</h2>
+  <p>Email: kowsikyogaraj@gmail.com</p>
+  <p>GitHub: github.com/Kowsik-Y</p>
+  <p>LinkedIn: linkedin.com/in/kowsik-y</p>
+</section>
+
+<footer>
+  © 2026 Kowsik Y | AI Developer Portfolio
+</footer>
+
 </body>
 </html>
