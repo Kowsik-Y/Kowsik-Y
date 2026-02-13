@@ -19,7 +19,7 @@ Artificial Intelligence & Machine Learning Engineer • Agent AI Builder • Ful
 
 🎓 AI & ML Student  
 🏫 Bannari Amman Institute of Technology  
-📍 India  
+📍 Namakkal, Tamil Nadu, India 
 
 I specialize in building **AI-powered applications and scalable architectures**.
 
@@ -55,27 +55,13 @@ I specialize in building **AI-powered applications and scalable architectures**.
 
 ---
 
-# 🚀 Projects
 
-## 🧠 Quiz Portal
-AI-generated quiz creation, authentication & scoring  
-Tech: React Native • Node.js • PostgreSQL  
 
-## 🌿 Bamboo Platform
-Scalable microservices content publishing system  
-Tech: Next.js • Spring Boot • PostgreSQL  
-
-## 💬 Loan Policy Chat Assistant
-Loan eligibility AI chatbot  
-Tech: Python • Prompt Engineering • AI Models  
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kowsik-Y&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowsik-Y&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kowsik-Y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kowsik-Y&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -88,9 +74,11 @@ Tech: Python • Prompt Engineering • AI Models
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kowsik-Y&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=Kowsik-Y&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
+
 
 ---
 
@@ -107,7 +95,6 @@ Tech: Python • Prompt Engineering • AI Models
 <img src="https://raw.githubusercontent.com/Kowsik-Y/Kowsik-Y/output/github-contribution-grid-snake.svg" />
 </p>
 
-*(Enable this in repo Actions — steps below)*
 
 ---
 
