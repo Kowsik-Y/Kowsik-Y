@@ -93,7 +93,7 @@ I specialize in building **AI-powered applications and scalable architectures**.
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kowsik-Y/Kowsik-Y/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Kowsik-Y/Kowsik-Y/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
