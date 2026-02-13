@@ -10,7 +10,7 @@ Artificial Intelligence & Machine Learning Engineer • Agent AI Builder • Ful
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kowsik-Y&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kowsik-Y&style=plastic&label=Profile+Views&abbreviated=true&color=0e75b6" />
 </p>
 
 ---
