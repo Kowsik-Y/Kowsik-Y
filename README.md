@@ -1,5 +1,6 @@
 
 <h1 align="center">Kowsik Y</h1>
+<a href="https://www.kowsik.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <p align="center">
 Artificial Intelligence & Machine Learning Engineer • Agent AI Builder • Full Stack Developer
